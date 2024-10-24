@@ -1,6 +1,6 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
 ## NAME:MALENI M
-## REG NO:21223040110
+## REG NO:212223040110
 ## AIM:
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
